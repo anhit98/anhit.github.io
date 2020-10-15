@@ -3,150 +3,150 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://anhit98.github.io/anhit/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://anhit98.github.io/anhit/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/09/creating-a-new-theme/"
+                href="https://anhit98.github.io/anhit/posts/2014/09/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="https://anhit98.github.io/anhit/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://anhit98.github.io/anhit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://anhit98.github.io/anhit/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/hugo/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/"
+                href="https://anhit98.github.io/anhit/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/"
+                href="https://anhit98.github.io/anhit/fr/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/04/getting-started-with-hugo/"
+                href="https://anhit98.github.io/anhit/posts/2014/04/getting-started-with-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
+                href="https://anhit98.github.io/anhit/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/go/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/categories/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/04/hugo-template-primer/"
+                href="https://anhit98.github.io/anhit/posts/2014/04/hugo-template-primer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="https://anhit98.github.io/anhit/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/jekyll/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/categories/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/2014/03/migrate-to-hugo-from-jekyll/"
+                href="https://anhit98.github.io/anhit/posts/2014/03/migrate-to-hugo-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
+                href="https://anhit98.github.io/anhit/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/series/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://anhit98.github.io/anhit/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://anhit98.github.io/anhit/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://anhit98.github.io/anhit/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://anhit98.github.io/anhit/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://anhit98.github.io/anhit/fr/tags/"
                 />
   </url>
   
